@@ -1,6 +1,5 @@
-# Feed Client Laravel Service Provider
+# Feeder
 
-[![Packagist](https://img.shields.io/packagist/v/surtec/feeder.svg)](https://packagist.org/packages/surtec/feeder)
 
 > This branch is for Laravel 4.x
 
